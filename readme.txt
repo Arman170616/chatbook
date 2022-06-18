@@ -15,3 +15,10 @@ Time Stamp - 3
 -room detail view
 -creating a consumer
 -Joining a chat
+
+
+Time Stamp - 4
+
+-sending messages
+-storing messages
+-scrolling to the bottom
